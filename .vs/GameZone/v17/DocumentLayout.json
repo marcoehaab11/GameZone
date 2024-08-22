@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\services\\gameservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\services\\gameservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|c:\\users\\marco ehab\\source\\repos\\gamezone\\gamezone\\wwwroot\\js\\game-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{51B3F959-7C02-481C-A3D7-CB654530223B}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\wwwroot\\js\\game-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "GameZone\\Views\\Games\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T13:32:30.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameZone\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T13:28:18.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "GameZone\\Settings\\FileSettings.cs",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "GameZone\\Settings\\FileSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:16:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameZone\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T12:34:24.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "game-index.js",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\wwwroot\\js\\game-index.js",
+              "RelativeDocumentMoniker": "GameZone\\wwwroot\\js\\game-index.js",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\wwwroot\\js\\game-index.js",
+              "RelativeToolTip": "GameZone\\wwwroot\\js\\game-index.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-06T12:22:58.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameServices.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Services\\GameServices.cs",
+              "RelativeDocumentMoniker": "GameZone\\Services\\GameServices.cs",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Services\\GameServices.cs",
+              "RelativeToolTip": "GameZone\\Services\\GameServices.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:37:54.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "GameZone\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\Marco Ehab\\source\\repos\\GameZone\\GameZone\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "GameZone\\Controllers\\GamesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:01:25.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
